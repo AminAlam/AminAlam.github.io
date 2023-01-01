@@ -15,7 +15,7 @@ Short Bio
 ======
 My name is Mohammad**Amin** **Alam**alhoda, and I am a last-year Bachelor of Science student in Electrical Engineering at Sharif University of Technology (SUT).
 * I am currently a scientific intern at IST Austria, where I am very fortunate to be advised by Prof. Sandra Siegert.
-* I am also a research assistant at IPM Insitute for Research in Fundamental Sciences (Tehran, Iran), Where I have the great pleasure of working with Prof. Ali Ghazizadeh.
+* I was also a research assistant at IPM Insitute for Research in Fundamental Sciences (Tehran, Iran), Where I had the great pleasure of working with Prof. Ali Ghazizadeh.
 * My main areas of interest include system and computational neuroscience, medical signal and image processing, and biomedical applications of deep-learning.
 
 
@@ -23,7 +23,7 @@ My name is Mohammad**Amin** **Alam**alhoda, and I am a last-year Bachelor of Sci
 Education
 ======
 * Bachelor’s degree in Electrical Engineering, Sharif University of Technology/Tehran/Iran, 2018-Present
-* Diploma degree in Mathematics and Physics, Mofid Highschool/Tehran/Iran, 2018-Present
+* Diploma degree in Mathematics and Physics, Mofid Highschool/Tehran/Iran, 2016-2018
 
 
 Research experience
@@ -55,7 +55,7 @@ Honors and Awards
   * Award of Extracurricular Activities in Sharif University of Technology - [Appreciation plaque](./files/EA_2020.jpeg)
 
 * 2018: **Mathematics and Physics University Entrance Exam**
-  * Ranked 199 among 144, 000 participants
+  * Ranked 143 among more than 144,000 participants
 
 Work experience
 ======
@@ -93,12 +93,6 @@ Skills
   * Persian (mother tongue)
   * English (full professional proficiency)
   * German (Basic)
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
 Teaching
 ======
